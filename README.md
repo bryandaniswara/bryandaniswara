@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Bryan's github stats](https://github-stats.bryandaniswara.com/api?username=bryandaniswara&theme=dark&show_icons=true)
+
+![Bryan's github stats](https://github-stats.bryandaniswara.com/api?username=bryandaniswara&show_icons=true&hide_rank=true&count_private=true)
