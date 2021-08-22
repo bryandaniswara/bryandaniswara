@@ -1,7 +1,5 @@
 ### Hi there, I'm Bryan Daniswara 👋
 
-Currently learning at [Hacktiv8](https://hacktiv8.com)
-
 Read my stories and journey on [my blog](https://bryandaniswara.com) 🚀
 
 Reach me : [Twitter](https://twitter.com/bryandaniswara) & [E-mail](mailto:me@bryandaniswara.com)
